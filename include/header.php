@@ -22,10 +22,10 @@
             <a class="nav-link active" aria-current="page" href="index.php">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Transfer History</a>
+            <a class="nav-link" href="../transfers.php">Transfer History</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Show All Customers</a>
+            <a class="nav-link" href="../all-customers.php">Show All Customers</a>
           </li>
         </ul>
       </div>
