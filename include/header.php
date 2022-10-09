@@ -9,7 +9,7 @@
 </head>
 
 <body>
-
+  <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
   <nav class="navbar navbar-dark bg-primary navbar-expand-lg">
     <div class="container-fluid">
       <a class="navbar-brand mx-2" href="index.php">TSF Banking System</a>
